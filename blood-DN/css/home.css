@@ -1,0 +1,88 @@
+/* body 
+{
+
+          
+        background-image: url(/image/screen-0.png);       
+} */
+
+/* .hero-wrapper[_ngcontent-dac-c129] {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    height: 60vh;
+    max-height: 100%;
+    align-items: center;
+} */
+
+/* .left-side[_ngcontent-dac-c129] {
+    padding: 100;
+    margin-top: 2px;
+    margin-left: 20px;
+    background-image:url(../image/pngfind.com-blood-drive-png-4572584.png);
+    background-position: 0;
+    background-repeat: no-repeat;
+    height: 200%;
+    top: 10%;
+    width: 200%;
+    background-size: contain;
+    display: block;
+    max-height: 600px;
+} */
+
+/* .right-side[_ngcontent-dac-c129] {
+    width: 100%;
+} */
+/* div, h1 {
+    font-family: DINNextLTArabic,Cairo,sans-serif!important;
+} */
+
+/* *, :after, :before {
+    box-sizing: inherit;
+} */
+/* body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: DINNextLTArabic,Cairo,sans-serif!important;
+    font-size: 13px;
+    
+} */
+
+
+/* @media only screen and (max-width: 776px){
+.left-side[_ngcontent-dac-c129] {
+    background-size: 65%;
+    background-position: 50%;
+}
+} */
+
+
+
+/* @media only screen and (min-width: 778px) and (max-width: 1920px){
+.right-side[_ngcontent-dac-c129] {
+    padding: 10rem 5.5rem;
+    text-align: right;
+}
+} */
+
+/* .mat-fab.mat-primary, .mat-flat-button.mat-primary, .mat-mini-fab.mat-primary, .mat-raised-button.mat-primary {
+    color: #fff;
+}
+
+.mat-drawer-transition .mat-drawer-content {
+    transition-duration: 400ms;
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-property: transform,margin-left,margin-right;
+}
+
+.mat-drawer-content {
+    position: relative;
+    z-index: 1;
+    display: block;
+    height: 100%;
+    overflow: auto;
+} */
+
