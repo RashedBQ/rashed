@@ -21,8 +21,8 @@
 
     
     
-    <input type="text" name="rname" placeholder="اسم المتبرع" class="form-control mb-3" required>
-    <select name="rbg" class="form-control mb-3" required>
+    <input type="text" name="name" placeholder="اسم المتبرع" class="form-control mb-3" required>
+    <select name="blood" class="form-control mb-3" required>
                 <option disabled="" selected="">فصيلة الدم</option>
                 <option value="A+">A+</option>
                 <option value="A-">A-</option>
@@ -51,16 +51,16 @@
                 <option value="aljawf">الجوف</option>
                 
           </select>
-        <input type="tel" name="rphone" placeholder="رقم الجوال" class="form-control mb-3" required>
+        <input type="tel" name="phone" placeholder="رقم الجوال" class="form-control mb-3" required>
         
-        <input type="password" name="rpassword" placeholder="كلمة المرور" class="form-control mb-3" required minlength="6">
+        <input type="password" name="password" placeholder="كلمة المرور" class="form-control mb-3" required minlength="6">
     
       
    
     
     
 
-    <input type="submit" name="rregister" value="تسجيل" class="w-100 btn btn-lg btn-primary">
+    <input type="submit" name="register" value="تسجيل" class="w-100 btn btn-lg btn-primary">
     <p class="mt-5 mb-3 text-muted">  </p>
     <a href="index.php"><input type="button" value="الصفحة الرئيسية" width="100" class="w-100 btn btn-lg btn-danger"></a>
     <p class="mt-5 mb-3 text-muted">2021</p>
